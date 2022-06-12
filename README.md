@@ -1,6 +1,6 @@
 <h2> Hi, I'm Angom Chittaranjan <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
-[![](https://img.shields.io/badge/-Angom%20Chittaranjan-blue)](https://linkedin.com/in/angom-chittaranjan)
+[![](https://img.shields.io/badge/Micronaut-Angom%20Chittaranjan-blue)](https://linkedin.com/in/angom-chittaranjan)
 <!--
 **AngomRanjan/AngomRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
