@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&exclude_repo=Data_Cleaning_with_python,Manning_Deep_Learning_with_Python,Crash_course_on_python_by_Google,PIAIC_Batach3_Quarter2,Python-programming-exercises,100_plus_python_challenging_programs)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/AngomRanjan))
  -->
-![Angom's github stats](https://github-readme-stats.vercel.app/api?username=AngomRanjan)
+[![Angom's github stats](https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
