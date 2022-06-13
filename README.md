@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <span>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact" /></span>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact">
+</span>
 
 ## :sparkles: Track Me
 
