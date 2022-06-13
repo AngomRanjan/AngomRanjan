@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Micronaut-Angom%20Chittaranjan-blue)](https://linkedin.com/in/angom-chittaranjan)
+
 
 <h2> Hi, I'm Angom Chittaranjan,</h2>
 Full Stack Developer and Front End Specialist with professional experiences in 
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://img.shields.io/badge/Micronaut-Angom%20Chittaranjan-blue)](https://linkedin.com/in/angom-chittaranjan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan)
 
