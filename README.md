@@ -7,10 +7,10 @@ Experts in responsive Web Design.  Strong experience with Cross Browser Compatib
 <br><br>
  <span>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/Bootstrap5-E34F26?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/badge/webpack-E34F26?style=for-the-badge&logo=webpack&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/css%203-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap%205-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/webpack-8ed5fa?style=for-the-badge&logo=webpack&logoColor=white">
 </span>    
 <br><br>
 
