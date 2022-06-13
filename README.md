@@ -1,6 +1,19 @@
-<h2> Hi, I'm Angom Chittaranjan <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-
 [![](https://img.shields.io/badge/Micronaut-Angom%20Chittaranjan-blue)](https://linkedin.com/in/angom-chittaranjan)
+
+<h2> Hi, I'm Angom Chittaranjan,</h2>
+Full Stack Developer and Front End Specialist with professional experiences in 
+Web Designing and User Interface Development.<br>
+Experts in responsive Web Design.  Strong experience with Cross Browser Compatibility issues and Optimization for web.
+<br><br>
+ <span>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap5-E34F26?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/webpack-E34F26?style=for-the-badge&logo=webpack&logoColor=white">
+</span>    
+<br><br>
+
 <!--
 **AngomRanjan/AngomRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
