@@ -4,15 +4,23 @@
 Full Stack Developer and Front End Specialist with professional experiences in 
 Web Designing and User Interface Development.<br>
 Experts in responsive Web Design.  Strong experience with Cross Browser Compatibility issues and Optimization for web.
-<br><br>
- <span>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/css%203-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/Bootstrap%205-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/badge/webpack-8ed5fa?style=for-the-badge&logo=webpack&logoColor=white">
-</span>    
-<br><br>
+<br>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=grey)
+  ![HTML5](https://img.shields.io/badge/-HTML%205-E34F26??style=flat&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS%203-%231572B6.svg?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-purple?style=flat&logo=bootstrap&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-%231572B6.svg?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-purple?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-000a46?style=flat&logo=adobe-photoshop&logoColor=white)
+  ![Gimp](https://img.shields.io/badge/-GIMP-purple?style=flat&logo=gimp&logoColor=white)<br>
 
 <!--
 **AngomRanjan/AngomRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,10 +36,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://img.shields.io/badge/Micronaut-Angom%20Chittaranjan-blue)](https://linkedin.com/in/angom-chittaranjan)
+<span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact" /></span>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&exclude_repo=Data_Cleaning_with_python,Manning_Deep_Learning_with_Python,Crash_course_on_python_by_Google,PIAIC_Batach3_Quarter2,Python-programming-exercises,100_plus_python_challenging_programs)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/AngomRanjan))
- -->
-[![Angom's github stats](https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## :sparkles: Track Me
+
+<a href="https://twitter.com/RanjanAngom?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">
+<img src="https://img.shields.io/badge/-@RanjanAngom-blue?style=flat&logo=twitter&logoColor=white">
+</a>
+
+ <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/AngomRanjan" aria-label="Follow @AngomRanjan on GitHub">
+ <img src="https://img.shields.io/badge/-@AngomRanjan-green?style=flat&logo=github&logoColor=white">
+</a>
