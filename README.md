@@ -18,9 +18,12 @@ Experts in responsive Web Design.  Strong experience with Cross Browser Compatib
   ![GitHub](https://img.shields.io/badge/-GitHub-%231572B6.svg?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-purple?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-000a46?style=flat&logo=adobe-photoshop&logoColor=white)
-  ![Gimp](https://img.shields.io/badge/-GIMP-purple?style=flat&logo=gimp&logoColor=white)<br>
+- 🎨 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-2538a0?style=flat&logo=adobe-photoshop&logoColor=white)
+  ![Gimp](https://img.shields.io/badge/-GIMP-657D8B?style=flat&logo=gimp&logoColor=white)
+ - 🖥 &nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=windows&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 <!--
 **AngomRanjan/AngomRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,8 +40,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <span>
-  <img height="200em" width="360em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true&layout=compact">
-  <img height="200em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact">
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true&layout=compact">
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact">
 </span>
 
 ## :footprints: Track Me
@@ -47,7 +50,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-@RanjanAngom-blue?style=flat&logo=twitter&logoColor=white">
 </a>
 
- <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/AngomRanjan" aria-label="Follow @AngomRanjan on GitHub">
  <img src="https://img.shields.io/badge/-@AngomRanjan-green?style=flat&logo=github&logoColor=white">
 </a>
