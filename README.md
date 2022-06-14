@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <span>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true&layout=compact">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact">
+  <img height="200em" width="360em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true&layout=compact">
+  <img height="200em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact">
 </span>
 
 ## :footprints: Track Me
