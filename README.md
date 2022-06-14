@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <span>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngomRanjan&show_icons=true&layout=compact">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngomRanjan&layout=compact">
 </span>
 
-## :sparkles: Track Me
+## :footprints: Track Me
 
 <a href="https://twitter.com/RanjanAngom?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">
 <img src="https://img.shields.io/badge/-@RanjanAngom-blue?style=flat&logo=twitter&logoColor=white">
