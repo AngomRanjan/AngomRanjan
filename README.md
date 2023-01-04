@@ -3,7 +3,7 @@
 <h2> Hi I'm Angom Chittaranjan :wave:,</h2>
 Full Stack Developer and Front End Specialist with professional experiences in 
 Web Designing and User Interface Development.<br>
-Experts in responsive Web Design.  Strong experience with Cross Browser Compatibility issues and Optimization for web. Open to new opportunity.
+Expert in Responsive Web Design.  Strong experience with Cross Browser Compatibility issues and Optimization for web. Open to new opportunities.
 <br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
